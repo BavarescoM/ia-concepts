@@ -1,0 +1,3 @@
+pipenv install scikit-learn scipy pandas matplotlib statsmodels fastapi uvicorn pydantic pingouin seaborn ipykernel
+
+pipenv install fastapi uvicorn

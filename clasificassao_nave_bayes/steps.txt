@@ -1,0 +1,2 @@
+pipenv install pandas plotly matplotlib statsmodels nbformat ipykernel scikit-learn ipywidgets 
+sweetviz flask pydantic Flask-Pydantic pyarrow optuna

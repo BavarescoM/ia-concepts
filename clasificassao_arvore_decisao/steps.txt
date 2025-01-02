@@ -1,0 +1,1 @@
+pipenv install pandas plotly matplotlib pingouin nbformat ipykernel scikit-learn  optuna ipywidgets gradio

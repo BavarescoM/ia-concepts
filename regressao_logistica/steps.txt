@@ -1,0 +1,8 @@
+pipenv install pandas 
+pipenv install pyarrow 
+pipenv install scikit-learn  seaborn plotly nbformat pingouin optuna fastapi uvicorn pydantic ipywidgets ipykernel
+
+
+uvicorn main:app --host 0.0.0.0 --port 80 --reload
+
+docker run -d --name mymodelapp -p 8081:8081 modeloqualidade

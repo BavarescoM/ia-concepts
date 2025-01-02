@@ -1,0 +1,5 @@
+pipenv install scikit-learn scipy --pandas 2.14 matplotlib seaborn ipykernel pingouin fastapi pydantic streamlit uvicorn requests
+
+pipenv shell
+uvicorn api_modelo_salario:app --reload
+streamlit run app_streamlit_salario
