@@ -1,0 +1,3 @@
+pipenv install pandas plotly scikit-learn optuna ipywidgets ipykernel nbformat matplotlib pingouin gradio
+
+pipenv install pandas seaborn ppscore setuptools nbformat matplotlib scikit-learn ipywidgets ipykernel shap plotly
